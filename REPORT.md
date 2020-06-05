@@ -14,7 +14,7 @@
 
 ```bash
 $ export GITHUB_USERNAME=MrShip15
-$ export GIST_TOKEN=b6c6f310c984145c586c2306b341c491433a2696
+$ export GIST_TOKEN=*******************************
 $ alias edit=nano
 ```
 
